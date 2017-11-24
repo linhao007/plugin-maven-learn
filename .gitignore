@@ -27,7 +27,7 @@ hs_err_pid*
 target
 /*/target
 /*/target/*
-noah-parent.iml
+plugin-maven.iml
 noah-server/noah-server.iml
 noah-core/noah-core.iml
 *.iml
